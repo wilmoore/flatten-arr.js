@@ -1,7 +1,7 @@
 {
   "name": "flatten-arr",
   "description": "Flattens a nested array recursively for Node.js and browsers.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "author": "Wil Moore III <wil.moore@wilmoore.com>",
   "bugs": {
     "url": "https://github.com/wilmoore/flatten-arr.js/issues"
