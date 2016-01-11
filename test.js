@@ -13,7 +13,7 @@ var test = require('tape-catch')
 var flatten = require('./')
 
 /*!
- * tests.
+ * setup.
  */
 
 var original = [1, [[[2, [[3, 4]], 5], 6]], [7], [[[8]]], 9]
