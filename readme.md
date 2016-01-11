@@ -36,7 +36,7 @@ flatten([1, [[[2, [[3, 4]], 5], 6]], [7], [[[8]]], 9])
 
 ## Inspriation
 
- - [_.flatten]
+ - [lodash.flatten]
  - [flatten-array]
  - [arr-flatten]
 
@@ -48,6 +48,6 @@ flatten([1, [[[2, [[3, 4]], 5], 6]], [7], [[[8]]], 9])
 
 [![GitHub license](https://img.shields.io/github/license/wilmoore/flatten-arr.js.svg)](https://github.com/wilmoore/flatten-arr.js/blob/master/license)
 
-[_.flatten]: https://lodash.com/docs#flatten
+[lodash.flatten]: https://lodash.com/docs#flatten
 [flatten-array]: https://www.npmjs.com/package/flatten-array
 [arr-flatten]: https://www.npmjs.com/package/arr-flatten
